@@ -13,7 +13,7 @@ namespace bytebank_ADM.Funcionarios
             return this.Salario * 0.2;
         }
 
-        public Auxiliar(string cpf, double salario) : base(cpf, 2000)
+        public Auxiliar(string cpf) : base(cpf, 2000)
         {
 
         }

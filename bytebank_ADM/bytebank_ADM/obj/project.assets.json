@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo\\.nuget\\packages\\": {}
+    "C:\\Users\\win\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\HerancaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\bytebank_ADM.csproj",
+      "projectUniqueName": "C:\\Users\\win\\Desktop\\Gugu ❤\\HerançaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\bytebank_ADM.csproj",
       "projectName": "bytebank_ADM",
-      "projectPath": "C:\\Users\\Gustavo\\Desktop\\HerancaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\bytebank_ADM.csproj",
-      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Desktop\\HerancaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\obj\\",
+      "projectPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\HerançaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\bytebank_ADM.csproj",
+      "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\HerançaEImplementandoInterfaces\\bytebank_ADM\\bytebank_ADM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
